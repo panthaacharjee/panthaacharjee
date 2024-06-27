@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.canva.com/design/DAGJQc1u290/cw5y_POiKRQt_qzUSyZ8kA/view?utm_content=DAGJQc1u290&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[![MasterHead](https://www.canva.com/design/DAGJQc1u290/cw5y_POiKRQt_qzUSyZ8kA/view?utm_content=DAGJQc1u290&utm_campaign=designshare&utm_medium=link&utm_source=editor)]()
 <h1 align="center">Hi 👋, I'm Pantha Acharjee</h1>
 <h3 align="center">Javascript Programmer, Full Stack Web Developer</h3>
 <img align="right" alt="Coding" widht="400" src="https://res.cloudinary.com/pantha/image/upload/v1719483799/Night-Coding_fszj6e.gif"/>
