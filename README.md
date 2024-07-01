@@ -1,7 +1,9 @@
 [![MasterHead](https://www.canva.com/design/DAGJQc1u290/cw5y_POiKRQt_qzUSyZ8kA/view?utm_content=DAGJQc1u290&utm_campaign=designshare&utm_medium=link&utm_source=editor)]()
 <h1 align="center">Hi 👋, I'm Pantha Acharjee</h1>
 <h3 align="center">Javascript Programmer, Full Stack Web Developer</h3>
-<img align="right" alt="Coding" widht="400" src="https://res.cloudinary.com/pantha/image/upload/v1719483799/Night-Coding_fszj6e.gif"/>
+<!-- <img align="right" alt="Coding" widht="400" src="https://res.cloudinary.com/pantha/image/upload/v1719483799/Night-Coding_fszj6e.gif"/> -->
+<img align="right" alt="Coding" widht="400" src="https://media1.tenor.com/m/XXgrgBo5OFUAAAAC/solo-leveling-loniyke.gif"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panthaacharjee&label=Profile%20views&color=0e75b6&style=flat" alt="panthaacharjee" /> </p>
 
